@@ -11,7 +11,7 @@ I am a passionate game dev, and my current dream is to make an indie video game 
 
 ## Currently Working on
 
-** God's Liberation ** | a 3d roguelite game Demo (By Unity 3D)
+**God's Liberation** | a 3d roguelite game Demo (By Unity 3D)
 im learning to move into gh repo
 
 ## My Tech Stack
