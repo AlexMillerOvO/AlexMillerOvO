@@ -11,6 +11,8 @@ I am a passionate game dev, and my current dream is to make an indie video game 
 
 ## Currently Working on
 
+** God's Liberation ** | a 3d roguelite game Demo (By Unity 3D)
+im learning to move into gh repo
 
 ## My Tech Stack
 
@@ -46,14 +48,14 @@ I am a passionate game dev, and my current dream is to make an indie video game 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AI 工作流](https://img.shields.io/badge/LLM-AI%E5%B7%A5%E4%BD%9C%E6%B5%81-7F77DD?style=flat)
 
-## 数据 / Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMillerOvO&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMillerOvO&layout=compact&theme=github_dark&hide_border=true)
 
-## 联系 / Contact
+## Contact Me
 
-- 邮箱：alexandermiller0211@outlook.com
-- 作品集网站：https://dongke-ta-portfolio.app.workbuddy.host
+- Email：744296488@qq.com
+- Portfolio：https://dongke-ta-portfolio.app.workbuddy.host
 
