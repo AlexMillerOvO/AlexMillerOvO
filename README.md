@@ -6,6 +6,8 @@
 
 - 当前项目：3D 俯视角的 Roguelite Demo《神的超度众生》(Unity 2022.3 + C#)
 - 学习路径：我倾向于先理解原理/项目的全貌，再基于理解和我的创意想法创造新事物
+- 作品集网站：[dongke-ta-portfolio.app.workbuddy.host](https://dongke-ta-portfolio.app.workbuddy.host/)
+
 
 ## 作品 / Projects
 
@@ -33,4 +35,5 @@
 ## 联系 / Contact
 
 - 邮箱：alexandermiller0211@outlook.com
-- 作品集网站：整理中（之后部署到 GitHub Pages）
+- 作品集网站：https://dongke-ta-portfolio.app.workbuddy.host
+
