@@ -48,11 +48,6 @@ im learning to move into gh repo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AI 工作流](https://img.shields.io/badge/LLM-AI%E5%B7%A5%E4%BD%9C%E6%B5%81-7F77DD?style=flat)
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMillerOvO&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMillerOvO&layout=compact&theme=github_dark&hide_border=true)
 
 ## Contact Me
 
