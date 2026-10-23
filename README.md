@@ -25,10 +25,10 @@ im learning to move into gh repo
 
 **Technical Art**
 
-![Blender](https://img.shields.io/badge/Blender-%E4%B8%BB%E5%8A%9B-F5792A?style=flat&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-Main-F5792A?style=flat&logo=blender&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-4A4A4A?style=flat)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-%E4%B8%BB%E5%8A%9B-00A0AF?style=flat)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-Main-00A0AF?style=flat)
 ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-333333?style=flat)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset%20Toolbag-555555?style=flat)
@@ -37,8 +37,8 @@ im learning to move into gh repo
 
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-2022.3-000000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%E5%AD%A6%E4%B9%A0%E4%B8%AD-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%E5%9F%BA%E7%A1%80-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Main-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
 
 **Productivity**
 
@@ -46,7 +46,7 @@ im learning to move into gh repo
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AI 工作流](https://img.shields.io/badge/LLM-AI%E5%B7%A5%E4%BD%9C%E6%B5%81-7F77DD?style=flat)
+![AI 工作流](https://img.shields.io/badge/LLM&Claw-AI_WorkFlow-7F77DD?style=flat)
 
 
 ## Contact Me
